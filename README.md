@@ -6,9 +6,9 @@ The goal of my Insight Data Engineering project is to design a real-time streami
 Background
 
 
-Open Payments is a federal program that collects and makes information public about financial relationships between the health care industry, physicians, and teaching hospitals.https://www.cms.gov/OpenPayments/.It has been updated from 2013 to 2018 and has about 36Gb of data in csv format.
+Open Payments is a federal program that collects and makes information public about financial relationships between the health care industry, physicians, and teaching hospitals.https://www.cms.gov/OpenPayments/. It has been updated from 2013 to 2018 and has about 36Gb of data in csv format.
 
-DailyMed provides trustworthy information about marketed drugs in the United States. DailyMed is the official provider of FDA label information.https://dailymed.nlm.nih.gov/dailymed/.The dataset is about 25Gb in xml format and has been updated for last 7 months.
+DailyMed provides trustworthy information about marketed drugs in the United States. DailyMed is the official provider of FDA label information.https://dailymed.nlm.nih.gov/dailymed/. The dataset is about 25Gb in xml format and has been updated for last 7 months.
 The dataset has all information like drug trials, side effects and post release experiences recorded for many of the drug labels produced by the pharmaceutical companies.
 
 Is public aware of this? How are the drugs coming into market? Can public rely on the drugs prescribed?
